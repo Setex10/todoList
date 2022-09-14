@@ -11,7 +11,7 @@ module.exports = {
     mode: "production",
 
     output: {
-        clean: true, 
+        clean: true,
         filename: 'main.[contenthash].js'
     },
     
